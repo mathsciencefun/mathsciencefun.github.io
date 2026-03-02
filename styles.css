@@ -10,8 +10,7 @@ body {
 
 /* Additional styling */
 header {
-    background-image: url('jep.png');
-    background-size: 75px 75px;
+    background-color: black;
     text-align: center;
     padding: 20px;
 }
@@ -33,7 +32,8 @@ footer {
     display: inline-block;
     padding: 15px 30px;
     background-image: url('jep.png');
-    background-size: 75px 75px;
+    background-size: 20px 20px;
+    background-repeat: repeat;
     color: white;
     text-decoration: none;
     font-size: 20px;
@@ -47,4 +47,5 @@ footer {
 .big-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
 
