@@ -10,10 +10,9 @@ body {
 
 /* Additional styling */
 header {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
     padding: 20px;
-    color: black;
 }
 
 main {
@@ -45,6 +44,7 @@ footer {
 .big-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+
 
 
 
