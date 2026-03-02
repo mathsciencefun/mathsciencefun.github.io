@@ -20,7 +20,7 @@
 
         body {
           /* 1. Point to your image file (ensure the path is correct) */
-          background-image: url('https//:mathsciencefun.github.io/jep.png');
+          background-image: url('jep.png');
 
           /* 2. Scale the image to fit the entire screen */
           background-size: cover;
@@ -348,5 +348,6 @@
             }
 
         }
+
 
 
